@@ -38,7 +38,7 @@ import retrofit2.Response
 import java.io.ByteArrayOutputStream
 import java.io.File
 
-
+//Done
 class MainActivity : AppCompatActivity() {
     var selectedImage: ImageView? = null
     var files: MutableList<Uri> = ArrayList()
